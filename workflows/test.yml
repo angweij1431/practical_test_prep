@@ -1,0 +1,7 @@
+name: Test Broken Path
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "This will never run!"
