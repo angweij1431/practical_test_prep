@@ -1,1 +1,1 @@
-conflicting local line
+# practical test fixed merge conflict
